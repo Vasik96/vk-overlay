@@ -1,0 +1,3 @@
+/home/vasik96/Downloads/vk_overlay/build/_deps/vulkan_headers-subbuild/CMakeFiles/vulkan_headers-populate.dir
+/home/vasik96/Downloads/vk_overlay/build/_deps/vulkan_headers-subbuild/CMakeFiles/edit_cache.dir
+/home/vasik96/Downloads/vk_overlay/build/_deps/vulkan_headers-subbuild/CMakeFiles/rebuild_cache.dir

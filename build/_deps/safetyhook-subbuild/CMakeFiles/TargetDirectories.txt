@@ -1,0 +1,3 @@
+/home/vasik96/Downloads/vk_overlay/build/_deps/safetyhook-subbuild/CMakeFiles/safetyhook-populate.dir
+/home/vasik96/Downloads/vk_overlay/build/_deps/safetyhook-subbuild/CMakeFiles/edit_cache.dir
+/home/vasik96/Downloads/vk_overlay/build/_deps/safetyhook-subbuild/CMakeFiles/rebuild_cache.dir

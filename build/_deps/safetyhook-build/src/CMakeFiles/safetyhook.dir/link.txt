@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsafetyhook.a CMakeFiles/safetyhook.dir/allocator.cpp.o CMakeFiles/safetyhook.dir/easy.cpp.o CMakeFiles/safetyhook.dir/inline_hook.cpp.o CMakeFiles/safetyhook.dir/mid_hook.cpp.o CMakeFiles/safetyhook.dir/os.linux.cpp.o CMakeFiles/safetyhook.dir/os.windows.cpp.o CMakeFiles/safetyhook.dir/utility.cpp.o CMakeFiles/safetyhook.dir/vmt_hook.cpp.o
+/usr/bin/ranlib libsafetyhook.a

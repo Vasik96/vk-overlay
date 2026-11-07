@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvko_imgui.a "CMakeFiles/vko_imgui.dir/_deps/imgui-src/imgui.cpp.o" "CMakeFiles/vko_imgui.dir/_deps/imgui-src/imgui_draw.cpp.o" "CMakeFiles/vko_imgui.dir/_deps/imgui-src/imgui_tables.cpp.o" "CMakeFiles/vko_imgui.dir/_deps/imgui-src/imgui_widgets.cpp.o" "CMakeFiles/vko_imgui.dir/_deps/imgui-src/backends/imgui_impl_vulkan.cpp.o"
+/usr/bin/ranlib libvko_imgui.a

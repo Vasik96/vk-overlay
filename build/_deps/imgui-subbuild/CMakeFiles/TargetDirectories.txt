@@ -1,0 +1,3 @@
+/home/vasik96/Downloads/vk_overlay/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate.dir
+/home/vasik96/Downloads/vk_overlay/build/_deps/imgui-subbuild/CMakeFiles/edit_cache.dir
+/home/vasik96/Downloads/vk_overlay/build/_deps/imgui-subbuild/CMakeFiles/rebuild_cache.dir

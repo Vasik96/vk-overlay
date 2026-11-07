@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/CMakeFiles/zydis-populate"
+		},
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/CMakeFiles/zydis-populate.rule"
+		},
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/CMakeFiles/zydis-populate-complete.rule"
+		},
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/zydis-populate-prefix/src/zydis-populate-stamp/zydis-populate-build.rule"
+		},
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/zydis-populate-prefix/src/zydis-populate-stamp/zydis-populate-configure.rule"
+		},
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/zydis-populate-prefix/src/zydis-populate-stamp/zydis-populate-download.rule"
+		},
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/zydis-populate-prefix/src/zydis-populate-stamp/zydis-populate-install.rule"
+		},
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/zydis-populate-prefix/src/zydis-populate-stamp/zydis-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/zydis-populate-prefix/src/zydis-populate-stamp/zydis-populate-patch.rule"
+		},
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/zydis-populate-prefix/src/zydis-populate-stamp/zydis-populate-test.rule"
+		},
+		{
+			"file" : "/home/vasik96/Downloads/vk_overlay/build/_deps/zydis-subbuild/zydis-populate-prefix/src/zydis-populate-stamp/zydis-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zydis-populate"
+		],
+		"name" : "zydis-populate"
+	}
+}
